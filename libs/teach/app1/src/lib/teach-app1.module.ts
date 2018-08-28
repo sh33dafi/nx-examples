@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { App1ShellComponent } from './app1-shell/app1-shell.component';
 import { MatTabsModule, MatToolbarModule } from '@angular/material';
+import { LoginModule } from '@nx-examples/login';
 
 @NgModule({
   imports: [
